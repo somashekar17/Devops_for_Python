@@ -3,14 +3,21 @@
 ##DevOps Python Scripts
 This repository contains Python scripts for performing various DevOps tasks, including working with AWS S3,EC2 AWS CLI .
 
-##Installation
-  1.AWS CLI
-  2.VS Code
-  3. AWS Account
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- AWS Account, AWS CLI, Latest version Python
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Somashekar17/Devops_for_Python.git
+
+2. Install the project dependencies:
+   ```bash
+   pip install boto3
 
 
-# Clone the repository to your local machine
-git clone <repository_url>
-
-# Install the required dependencies
-pip install boto3
